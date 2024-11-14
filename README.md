@@ -1,12 +1,9 @@
 <h1 align="center">Hi there👋🏻</h1>
 
-**Sean** ➜ **~** **$** Name \
+**Name** ➜ **~** **$**  \
 &nbsp;Sean 
 
-**Sean** ➜ **~** **$**  Pronouns \
-&nbsp;He | Him
-
-**Sean** ➜ **~** **$** Roles \
+**Roles** ➜ **~** **$**  \
 &nbsp; Web & Software Developer, Cloud Engineer
 
 **Sean** ➜ **~** **$** Speaker \
