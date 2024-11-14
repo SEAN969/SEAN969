@@ -6,10 +6,7 @@ Here's the updated README file with the requested changes:
 **Roles** ➜ **~** **$** Web Developer \
 **Summary** ➜ **~** **$** Frontend who loves figuring out new technology and using it. I enjoy collaborating and building new and improving commercial products and services that are useful and experimental.
 
-**Sean** ➜ **~** **$** introd quick-facts \
-&nbsp;🔭 I'm currently working on Sezulu: https://github.com/SEAN969/weatherAPI \
-&nbsp;🤝 I'm always ready to collaborate on *Open-source & Start-up projects*. \
-&nbsp;✨ Interested in UI Design, Frontend and AI.
+Here's the updated "intro technologies" section with your addition about Discord bots:
 
 **Sean** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
@@ -25,6 +22,7 @@ Here's the updated README file with the requested changes:
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
 <a href="https://reactjs.org/" title="React"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/react/61dafb"></a>&nbsp;
 <a href="https://jquery.com/" title="jQuery"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/jQuery/0769ad"></a>&nbsp;
+<a href="https://discord.js.org/" title="Discord.js - Learning"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/discord/7289da"></a>&nbsp;
 
 &nbsp;Databases & ORMs : \
 &nbsp;<a href="https://www.mysql.com/" title="MySQL"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MySQL/f29111"></a>&nbsp;
@@ -36,8 +34,3 @@ Here's the updated README file with the requested changes:
 <a href="https://nodejs.org/" title="NodeJS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Node.js/339933"></a>&nbsp;
 <a href="https://git-scm.com/" title="Git"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Git/f05032"></a>&nbsp;
 <a href="https://www.docker.com/" title="Docker - Learning"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Docker/2496ed50"></a>&nbsp;
-<a href="https://learn.microsoft.com/en-in/powershell/" title="Powershell - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/PowerShell/5391fe10"></a>&nbsp;
-<a href="https://azure.microsoft.com/" title="Azure"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MicrosoftAzure/0089d6"></a>
-
-&nbsp;OSs & Platforms : \
-<a href="https://ubuntu.com/" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>&nbsp;
