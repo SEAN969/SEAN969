@@ -5,12 +5,12 @@
 **Roles** ➜ **~** **$** Web Developer
 
 **Summary** ➜ **~** **$** Frontend
-&nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are  useful and expiriemental
+&nbsp;Who loves figuring out new technology and using it. I enjoy collaborating and building new and iproving commercial products and services that are  useful and expiriemental
 
 **Sean** ➜ **~** **$** introd quick-facts \
 &nbsp;🔭 I’m currently working on Sezulu: https://github.com/SEAN969/weatherAPI \
 &nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
-&nbsp;✨ Interested in UI Designing, Web & Software Developing and AI. 
+&nbsp;✨ Interested in UI Designing, Frontend and AI. 
 
 **Sean** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
