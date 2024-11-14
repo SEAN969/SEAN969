@@ -1,15 +1,10 @@
 <h1 align="center">Hi there👋🏻</h1>
 
-**Name** ➜ **~** **$**  \
-&nbsp;Sean 
+**Name** ➜ **~** **$** Sean \
 
-**Roles** ➜ **~** **$**  \
-&nbsp; Web & Software Developer, Cloud Engineer
+**Roles** ➜ **~** **$** Web & Software Developer, Cloud Engineer  \
 
-**Sean** ➜ **~** **$** Speaker \
-&nbsp;English.
-
-**Sean** ➜ **~** **$** Summary \
+**Summary** ➜ **~** **$** Summary \
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are  useful and expiriemental
 
 **Sean** ➜ **~** **$** introd quick-facts \
