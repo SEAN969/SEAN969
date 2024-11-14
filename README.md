@@ -4,7 +4,7 @@
 
 **Roles** ➜ **~** **$** Web & Software Developer, Cloud Engineer  \
 
-**Summary** ➜ **~** **$** Summary \
+**Summary** ➜ **~** **$**
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are  useful and expiriemental
 
 **Sean** ➜ **~** **$** introd quick-facts \
