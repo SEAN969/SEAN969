@@ -1,16 +1,15 @@
+Here's the updated README file with the requested changes:
+
 <h1 align="center">Hi there👋🏻</h1>
 
 **Name** ➜ **~** **$** Sean \
-
-**Roles** ➜ **~** **$** Web Developer
-
-**Summary** ➜ **~** **$** Frontend
-&nbsp;Who loves figuring out new technology and using it. I enjoy collaborating and building new and iproving commercial products and services that are  useful and expiriemental
+**Roles** ➜ **~** **$** Web Developer \
+**Summary** ➜ **~** **$** Frontend who loves figuring out new technology and using it. I enjoy collaborating and building new and improving commercial products and services that are useful and experimental.
 
 **Sean** ➜ **~** **$** introd quick-facts \
-&nbsp;🔭 I’m currently working on Sezulu: https://github.com/SEAN969/weatherAPI \
-&nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
-&nbsp;✨ Interested in UI Designing, Frontend and AI. 
+&nbsp;🔭 I'm currently working on Sezulu: https://github.com/SEAN969/weatherAPI \
+&nbsp;🤝 I'm always ready to collaborate on *Open-source & Start-up projects*. \
+&nbsp;✨ Interested in UI Design, Frontend and AI.
 
 **Sean** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
@@ -20,12 +19,11 @@
 <a href="https://www.php.net/" title="PHP"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Php/777bb4"></a>&nbsp;
 <a href="https://sass-lang.com/" title="Sass"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Sass/CC6699"></a>&nbsp;
 
- \
 &nbsp;Frameworks & Libraries : \
 &nbsp;<a href="https://getbootstrap.com/" title="Bootstrap CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Bootstrap/7952b3"></a>&nbsp;
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C Lang"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/laravel"></a>&nbsp;
-
+<a href="https://laravel.com/" title="Laravel"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/laravel/ff2d20"></a>&nbsp;
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
+<a href="https://reactjs.org/" title="React"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/react/61dafb"></a>&nbsp;
 <a href="https://jquery.com/" title="jQuery"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/jQuery/0769ad"></a>&nbsp;
 
 &nbsp;Databases & ORMs : \
@@ -38,16 +36,8 @@
 <a href="https://nodejs.org/" title="NodeJS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Node.js/339933"></a>&nbsp;
 <a href="https://git-scm.com/" title="Git"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Git/f05032"></a>&nbsp;
 <a href="https://www.docker.com/" title="Docker - Learning"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Docker/2496ed50"></a>&nbsp;
-<a href="https://learn.microsoft.com/en-in/powershell/" title="Powershell - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/PowerShell/5391fe10"></a> \
-&nbsp;
-&nbsp;OSs & Platforms : \
-&nbsp;<a href="https://www.microsoft.com/en-in/windows/" title="Windows"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
-<a href="https://ubuntu.com/" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>&nbsp;
-<a href="https://supabase.com/" title="Supabase - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Supabase/3ecf8e10"></a>&nbsp;
-<a href="https://aws.amazon.com/" title="AWS - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AmazonAWS/ff990010"></a>&nbsp;
-<a href="https://firebase.google.com/" title="Firebase - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Firebase/ffca2810"></a>
+<a href="https://learn.microsoft.com/en-in/powershell/" title="Powershell - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/PowerShell/5391fe10"></a>&nbsp;
+<a href="https://azure.microsoft.com/" title="Azure"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MicrosoftAzure/0089d6"></a>
 
-<!-- 
-<h3 align="center">My repos ⬇️</h3>  
-&nbsp;
-<a href="https://github.com/SEAN969/weatherAPI" title="Sezulu"></a> -->
+&nbsp;OSs & Platforms : \
+<a href="https://ubuntu.com/" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>&nbsp;
