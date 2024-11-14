@@ -2,9 +2,9 @@
 
 **Name** ➜ **~** **$** Sean \
 
-**Roles** ➜ **~** **$** Web & Software Developer, Cloud Engineer  \
+**Roles** ➜ **~** **$** Web Developer
 
-**Summary** ➜ **~** **$**
+**Summary** ➜ **~** **$** Frontend
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are  useful and expiriemental
 
 **Sean** ➜ **~** **$** introd quick-facts \
