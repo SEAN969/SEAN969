@@ -46,7 +46,7 @@
 
 ### 🚀 Currently Exploring
 - Custom AI tooling for art and dev workflows  
-- Vue.js & Flutter  
+- React & Typescript with AI
 - Smarter infrastructure with Azure & IAC  
 - Building better frontend architecture using modern React + TypeScript
 
