@@ -2,7 +2,7 @@
 
 ---
 
- $ I’m a frontend-focused software developer who enjoys learning new technologies and applying them to real-world products. I like building clean, practical, and sometimes experimental tools, with a focus on AI-powered features, efficient workflows, and data-driven solutions—especially in fintech.
+ I’m a frontend-focused software developer who enjoys learning new technologies and applying them to real-world products. I like building clean, practical, and sometimes experimental tools, with a focus on AI-powered features, efficient workflows, and data-driven solutions—especially in fintech.
 
 ---
 
