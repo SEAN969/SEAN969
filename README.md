@@ -2,11 +2,9 @@
 
 ---
 
-### 💻 About Me
-
-**Name** ➜ `~ $` Sean  
-**Role** ➜ `~ $` Web Developer  
-**Summary** ➜ `~ $` I’m a frontend-focused dev who loves learning new tech and applying it in real-world products. I enjoy building clean, useful, and sometimes experimental tools that solve real problems—especially in fintech and data-driven spaces.
+Name ➜ ~ $ Sean
+Role ➜ ~ $ Software Developer
+Summary ➜ ~ $ I’m a frontend-focused software developer who enjoys learning new technologies and applying them to real-world products. I like building clean, practical, and sometimes experimental tools, with a focus on AI-powered features, efficient workflows, and data-driven solutions—especially in fintech.
 
 ---
 
